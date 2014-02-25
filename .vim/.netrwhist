@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/ruiqinghu/tmp/sample_app'
+let g:netrw_dirhist_2='/Users/ruiqinghu/tmp/rails_app'
+let g:netrw_dirhist_3='/Users/ruiqinghu/Ruby/Test/bin'
+let g:netrw_dirhist_4='/Users/ruiqinghu/Ruby/Test'
+let g:netrw_dirhist_5='/Users/ruiqinghu/Ruby/ruby'
+let g:netrw_dirhist_6='/Users/ruiqinghu/Ruby/BizWeb'
